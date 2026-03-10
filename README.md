@@ -2,11 +2,25 @@
 
 Hello! I'm an aspiring full-stack developer passionate about transforming creative ideas into reality. With a strong foundation in both front-end and back-end development, I strive to build innovative solutions that make a meaningful impact and help people in their day-to-day lives. 🎨💡🚀
 
-## Skills
+## ⚡ Tech Stack
 
-- **Front-end Development**: HTML, CSS, JavaScript, React
-- **Back-end Development**: Express, MongoDB
-- **Additional Tools & Technologies**: Cloudinary, Python
+🎨 **Frontend**  
+React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3  
+
+📱 **Mobile**  
+React Native (Expo) • Kotlin • Jetpack Compose • Swift • SwiftUI  
+
+⚙️ **Backend**  
+Node.js • Express.js • FastAPI • REST APIs • JWT Authentication • API Design  
+
+🗄️ **Database**  
+MongoDB • MySQL  
+
+🤖 **AI / ML**  
+Python • OpenAI API • Hugging Face API  
+
+☁️ **DevOps / Cloud**  
+Git • GitHub • Docker • GitHub Actions • AWS S3 • Cloudinary
 
 ## Projects 📂🎧🛠️
 
