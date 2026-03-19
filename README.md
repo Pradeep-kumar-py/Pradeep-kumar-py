@@ -5,58 +5,52 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Developer;React+%7C+Next.js+%7C+TypeScript;Kotlin+%7C+Jetpack+Compose;Node.js+%7C+FastAPI+%7C+REST+APIs;Always+building+something+new...)](https://git.io/typing-svg)
-
-<br/>
-
-*Turning creative ideas into products that actually matter.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-kumar-10p/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PradeepK39399)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://pradeepsaga.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Developer;React+%7C+Next.js+%7C+TypeScript;Kotlin+%7C+Jetpack+Compose;Node.js+%7C+FastAPI+%7C+REST+APIs;Always+building+something+new...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
-
+```bash
+$ whoami
+```
 ```yaml
-Frontend  : React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3
-Mobile    : React Native (Expo) · Kotlin · Jetpack Compose · Swift · SwiftUI
-Backend   : Node.js · Express.js · FastAPI · REST APIs · JWT Auth
-Database  : MongoDB · MySQL
-AI / ML   : Python · OpenAI API · Hugging Face
-DevOps    : Git · GitHub · Docker · GitHub Actions · AWS S3 · Cloudinary
+name       : Pradeep Kumar
+role       : Full-Stack + Mobile + AI Developer
+college    : Army Institute of Technology, Pune  [2024–2028]
+status     : Building in public
 ```
 
 ---
 
-## 📂 Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🎵 **Music Player** | Dynamic, interactive web player built for seamless audio experiences | React · CSS3 |
-| ✅ **TODO App** | Clean, focused task manager designed to boost daily productivity | React · Node.js |
-
-> *More coming soon — I build in public.*
-
----
-
-## 🧠 What Drives Me
-
+```bash
+$ cat tech-stack.yaml
 ```
-> I don't just write code.
-> I build things that solve real problems for real people.
-> My goal: leverage every skill I have to create applications
-  that bring genuine value — not just demos.
+```yaml
+frontend   : React · Next.js · TypeScript · Tailwind CSS
+mobile     : Kotlin · Jetpack Compose · React Native · Expo · Swift · SwiftUi
+backend    : Node.js · Express.js · FastAPI · REST · JWT · NextJs · NestJs
+database   : MongoDB · MySQL
+ai/ml      : Python · OpenAI API · Hugging Face · Vertex AI · LiveKit
+devops     : Docker · GitHub Actions · AWS S3 · Cloudinary · Azure · DigitalOcean · Oracle Cloud
 ```
 
 ---
 
-## 📊 GitHub Stats
+
+```bash
+$ git log --oneline --graph
+```
+```
+* Contributed to AIT college website (1000+ route production codebase)
+* Built full platform for The Mascot Hub — Next.js · AWS S3 · Admin dashboard
+* Frontend intern @ Upsy.in — Next.js · TypeScript · scalable component systems
+* Full-stack intern @ Sniffi.in — dashboard · booking APIs · MongoDB
+```
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
@@ -71,13 +65,15 @@ DevOps    : Git · GitHub · Docker · GitHub Actions · AWS S3 · Cloudinary
 
 ---
 
-## 🤝 Let's Connect
+```bash
+$ open --links
+```
 
 <div align="center">
 
-*Open to collaborations, freelance work, and interesting conversations.*
-
-`Let's build something real.`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-kumar-10p/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PradeepK39399)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://pradeepsaga.vercel.app/)
 
 <br/>
 
