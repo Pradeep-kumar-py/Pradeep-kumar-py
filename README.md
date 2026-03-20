@@ -28,15 +28,14 @@ $ cat tech-stack.yaml
 ```
 ```yaml
 frontend   : React · Next.js · TypeScript · Tailwind CSS
-mobile     : Kotlin · Jetpack Compose · React Native · Expo · Swift · SwiftUi
-backend    : Node.js · Express.js · FastAPI · REST · JWT · NextJs · NestJs
+mobile     : Kotlin · Jetpack Compose · React Native · Expo · Swift · SwiftUI
+backend    : Node.js · Express.js · FastAPI · REST · JWT · Next.js · NestJS
 database   : MongoDB · MySQL
 ai/ml      : Python · OpenAI API · Hugging Face · Vertex AI · LiveKit
 devops     : Docker · GitHub Actions · AWS S3 · Cloudinary · Azure · DigitalOcean · Oracle Cloud
 ```
 
 ---
-
 
 ```bash
 $ git log --oneline --graph
@@ -54,12 +53,16 @@ $ git log --oneline --graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-kumar-py&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-kumar-py&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-kumar-py&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github&include_all_commits=true&count_private=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-kumar-py&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="175" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Pradeep-kumar-py&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="170" />
+<img src="https://streak-stats.demolab.com?user=Pradeep-kumar-py&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="175" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep-kumar-py&theme=react-dark&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true" width="95%" />
 
 </div>
 
